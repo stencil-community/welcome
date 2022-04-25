@@ -8,6 +8,6 @@ We promise to extend courtesy and respect to everyone involved in this project r
 
 If any member of the community violates this code of conduct, the maintainer(s) and/or the Ionic team may take action, including but not limited to removing issues, comments, and PRs or blocking accounts as deemed appropriate.
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please contact the maintainer(s) or email contact@ionic.io.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please contact the maintainer(s) or email devrel@ionic.io.
 
 To review the full Stencil community guidelines, please visit the following url: https://github.com/ionic-team/stencil/blob/main/CODE_OF_CONDUCT.md
