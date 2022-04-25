@@ -10,4 +10,4 @@ If any member of the community violates this code of conduct, the maintainer(s) 
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please contact the maintainer(s) or email contact@ionic.io.
 
-To review the full Ionic community guidelines, please visit the following url: https://github.com/ionic-team/ionic-framework/blob/main/CODE_OF_CONDUCT.md
+To review the full Stencil community guidelines, please visit the following url: https://github.com/ionic-team/stencil/blob/main/CODE_OF_CONDUCT.md
