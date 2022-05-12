@@ -1,4 +1,4 @@
-<img alt="stencil community logo" src="https://blog.ionicframework.com/wp-content/uploads/2021/07/stencil-future-feature-image.png" width="100%"/>
+<img alt="stencil community logo" src="https://user-images.githubusercontent.com/1930213/168127880-de47266d-10e9-4485-a9c9-adf24a96f3b5.png" width="100%"/>
 
 # Welcome!
 
