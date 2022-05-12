@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/104099640?s=200&v=4" width="100%"/>
+<img src="https://blog.ionicframework.com/wp-content/uploads/2021/07/stencil-future-feature-image.png" width="100%"/>
 
 # Welcome!
 
